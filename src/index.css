@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#root{
+  background: linear-gradient(180deg,#c84421 ,#f37e20,#e3cfc0);
+  width: 100%;
+  height: 750px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
